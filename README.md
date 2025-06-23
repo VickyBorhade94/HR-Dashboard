@@ -45,6 +45,6 @@ This dashboard is ideal for:
 ## 👤 Author
 **Vicky Borhade**  
 _Data Analyst | Power BI Developer | HR Analytics Specialist_  
-📧 (Optional) vicky@example.com  
+📧 (Optional) vborhade1994.com  
 🔗 (Optional) [LinkedIn Profile](https://www.linkedin.com)
 
